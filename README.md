@@ -1,2 +1,17 @@
-# website-response-timer
-CLI tool to check website availability and measure response time. Displays HTTP status codes and latency for quick performance testing.
+# Website Response Time Checker 🌐
+
+Simple tool to check website status and response time.
+
+## How to use
+
+```bash
+python response_checker.py
+```
+
+Enter a URL and see its response time.
+
+## Features
+
+* Shows HTTP status code
+* Measures response time
+* Simple and fast
